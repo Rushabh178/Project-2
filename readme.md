@@ -13,7 +13,7 @@ To get started with the Hotel Sign In / Login Project, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/Rushabh178/Project-2.git
     ```
 
 2. Install dependencies:
@@ -77,4 +77,3 @@ Rushabh Shrishrimal
 ### License
 
 This project is licensed under the ISC License.
-# Project-2
